@@ -12,8 +12,6 @@ Instead of hardcoding `#005BD3` in your CSS and `rgba(0,91,211,1)` in your iOS c
 - **Maintainability** — design decisions are decoupled from implementation; updating a brand color is a single-file change
 - **Tooling** — a standard format enables exporters, transformers (e.g., Style Dictionary), and importers to interoperate
 
----
-
 ## W3C DTCG Format
 
 kds-ai-tokens follows the [W3C Design Token Community Group](https://design-tokens.github.io/community-group/format/) (DTCG) format. Every token is a JSON object with reserved `$`-prefixed keys.
@@ -72,8 +70,6 @@ The `$value` is the default (light) mode value. Additional modes are stored in `
 | `fontWeight` | `"Regular"`, `700` | Font weight |
 | `number` | `1.5` | Unitless numbers |
 | `typography` | `{ fontFamily, fontSize, … }` | Composite type |
-
----
 
 ## Figma Variables
 

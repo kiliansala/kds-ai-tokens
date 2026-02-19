@@ -4,3 +4,4 @@ dist/
 *.log
 docs/.vitepress/cache/
 docs/.vitepress/dist/
+.claude/

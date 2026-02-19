@@ -26,7 +26,17 @@ const typographyData = etx.Typography
 
 Extended theme tokens for each kds-ai product vertical. Each theme defines 251 color tokens. **Space** and **Typography** are shared across all themes.
 
-Most tokens alias [Semantic](/design-tokens/semantic) values. Theme-specific tokens override the tonal scale with product-branded primitive colors.
+Most tokens alias [Semantic](/design-tokens/semantic) values. Each theme overrides a small set of tonal tokens — replacing the Neutral grey ramp with a product-branded color ramp. All other tokens are inherited unchanged from Neutral.
+
+| Theme | Overrides vs Neutral | Color ramp |
+|---|---|---|
+| Neutral | — (baseline) | gray |
+| Events | 11 | brown |
+| Analytics | 14 | teal |
+| Locations | 14 | indigo |
+| EcoTrafiX | 17 | yellow |
+| Devices | 14 | blue |
+| Messages | 0 (identical to Neutral) | gray |
 
 ## Theme
 
