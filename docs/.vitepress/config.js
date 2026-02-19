@@ -1,6 +1,7 @@
 export default {
   title: 'kds-ai tokens',
   description: 'W3C Design Tokens for the kds-ai design system',
+  base: '/kds-ai-tokens/',
   themeConfig: {
     sidebar: [
       {
