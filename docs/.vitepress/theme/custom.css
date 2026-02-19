@@ -1,0 +1,341 @@
+/* Load Roboto (used by kds-ai Typeface tokens) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&display=swap');
+
+
+/* Token highlight animation (on anchor scroll) */
+@keyframes token-highlight-fade {
+  0%   { background-color: var(--vp-c-brand-soft); }
+  100% { background-color: transparent; }
+}
+.token-highlight {
+  animation: token-highlight-fade 2s ease-out;
+}
+
+/* ── Download bar ── */
+.download-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  margin-bottom: 24px;
+}
+
+.download-bar-label {
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.85em;
+  color: var(--vp-c-text-2);
+}
+
+.download-bar-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  border-radius: 6px;
+  background: var(--vp-c-brand-1);
+  color: #fff !important;
+  font-size: 0.82em;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background 0.15s;
+}
+
+.download-bar-btn:hover {
+  background: var(--vp-c-brand-2);
+}
+
+/* Token table styles */
+.token-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.875rem;
+}
+
+.token-table th {
+  text-align: left;
+  padding: 8px 12px;
+  border-bottom: 2px solid var(--vp-c-divider);
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.token-table td {
+  padding: 6px 12px;
+  border-bottom: 1px solid var(--vp-c-divider-light);
+  vertical-align: middle;
+}
+
+.token-table tr:hover td {
+  background: var(--vp-c-bg-soft);
+}
+
+/* Color swatch */
+.token-swatch {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border-radius: 3px;
+  border: 1px solid var(--vp-c-divider);
+  vertical-align: middle;
+  margin-right: 6px;
+  flex-shrink: 0;
+}
+
+.token-value-cell {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+/* Alias chip */
+.token-alias {
+  display: inline-flex;
+  align-items: center;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.token-alias a {
+  color: var(--vp-c-brand-1);
+  text-decoration: none;
+}
+
+.token-alias a:hover {
+  text-decoration: underline;
+}
+
+/* Token name cell */
+.token-name {
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.85em;
+  color: var(--vp-c-text-1);
+}
+
+/* Type badge */
+.token-type-badge {
+  display: inline-block;
+  background: var(--vp-c-default-soft);
+  border-radius: 3px;
+  padding: 1px 5px;
+  font-size: 0.78em;
+  font-family: var(--vp-font-family-mono);
+  color: var(--vp-c-text-2);
+}
+
+/* Mode toggle */
+.mode-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 12px;
+  padding: 4px 6px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 6px;
+}
+
+.mode-toggle button {
+  padding: 3px 10px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.85em;
+  background: transparent;
+  color: var(--vp-c-text-2);
+  transition: background 0.15s, color 0.15s;
+}
+
+.mode-toggle button.active {
+  background: var(--vp-c-brand-1);
+  color: #fff;
+}
+
+.mode-toggle button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+/* Theme selector */
+.theme-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+
+.theme-selector button {
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--vp-c-divider);
+  cursor: pointer;
+  font-size: 0.85em;
+  background: transparent;
+  color: var(--vp-c-text-2);
+  transition: all 0.15s;
+}
+
+.theme-selector button.active {
+  background: var(--vp-c-brand-1);
+  border-color: var(--vp-c-brand-1);
+  color: #fff;
+}
+
+/* Color grid for ramps */
+.color-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+  gap: 4px;
+  margin: 8px 0;
+}
+
+.color-grid-cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.color-grid-swatch {
+  width: 40px;
+  height: 40px;
+  border-radius: 6px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.color-grid-label {
+  font-size: 0.65em;
+  font-family: var(--vp-font-family-mono);
+  color: var(--vp-c-text-2);
+  text-align: center;
+}
+
+/* Section headers within token pages */
+.token-section-header {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Raw value */
+.token-raw-value {
+  font-family: var(--vp-font-family-mono);
+  font-size: 0.85em;
+}
+
+/* ── Typography preview cards ── */
+.type-preview-card {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  margin-bottom: 12px;
+  overflow: hidden;
+}
+
+.type-preview-header {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 14px;
+  background: var(--vp-c-bg-soft);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+.type-preview-name {
+  font-weight: 600;
+  font-size: 0.85em;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+  min-width: 140px;
+}
+
+.type-preview-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.type-meta-item {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  font-size: 0.75em;
+}
+
+.type-meta-key {
+  color: var(--vp-c-text-3);
+  font-family: var(--vp-font-family-mono);
+}
+
+.type-meta-val {
+  color: var(--vp-c-text-2);
+  font-family: var(--vp-font-family-mono);
+}
+
+.type-preview-sample {
+  padding: 14px 16px;
+  max-height: 120px;
+  overflow: hidden;
+  color: var(--vp-c-text-1);
+  line-height: 1.2;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* ── Theme palette (ETX tonal scale) ── */
+.theme-palette {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.theme-palette-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+  min-width: 60px;
+}
+
+.theme-palette-step--primary .theme-palette-swatch {
+  border-radius: 8px;
+  height: 52px;
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.theme-palette-swatch {
+  width: 100%;
+  height: 40px;
+  border-radius: 6px;
+  border: 1px solid var(--vp-c-divider);
+}
+
+.theme-palette-label {
+  font-size: 0.72em;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  font-family: var(--vp-font-family-mono);
+  text-align: center;
+}
+
+.theme-palette-hex {
+  font-size: 0.65em;
+  color: var(--vp-c-text-3);
+  font-family: var(--vp-font-family-mono);
+  text-align: center;
+}
