@@ -2468,7 +2468,7 @@
       "$value": "{Colors.Ramps.teal.90}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.90}"
+          "dark": "{Colors.Ramps.teal.20}"
         }
       }
     },
@@ -2477,7 +2477,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -2486,7 +2486,7 @@
       "$value": "#00000099",
       "$extensions": {
         "modes": {
-          "dark": "#00000099"
+          "dark": "#FFFFFF99"
         }
       }
     },
@@ -2495,7 +2495,7 @@
       "$value": "#00000061",
       "$extensions": {
         "modes": {
-          "dark": "#00000061"
+          "dark": "#FFFFFF61"
         }
       }
     },
@@ -2504,7 +2504,7 @@
       "$value": "{Colors.Ramps.teal.80}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.80}"
+          "dark": "{Colors.Ramps.teal.30}"
         }
       }
     },
@@ -2513,7 +2513,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -2540,7 +2540,7 @@
       "$value": "{Colors.Ramps.teal.70}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.70}"
+          "dark": "{Colors.Ramps.teal.40}"
         }
       }
     },
@@ -2549,7 +2549,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -2612,7 +2612,7 @@
       "$value": "{Colors.Ramps.teal.40}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.40}"
+          "dark": "{Colors.Ramps.teal.70}"
         }
       }
     },
@@ -2648,7 +2648,7 @@
       "$value": "{Colors.Ramps.teal.30}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.30}"
+          "dark": "{Colors.Ramps.teal.80}"
         }
       }
     },
@@ -2657,7 +2657,7 @@
       "$value": "{Colors.Base.white}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.white}"
+          "dark": "{Colors.Base.black}"
         }
       }
     },
@@ -2666,7 +2666,7 @@
       "$value": "#FFFFFF99",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF99"
+          "dark": "#00000099"
         }
       }
     },
@@ -2675,7 +2675,7 @@
       "$value": "#FFFFFF61",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF61"
+          "dark": "#00000061"
         }
       }
     },
@@ -2684,7 +2684,7 @@
       "$value": "{Colors.Ramps.teal.20}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.20}"
+          "dark": "{Colors.Ramps.teal.90}"
         }
       }
     },
@@ -2693,7 +2693,7 @@
       "$value": "{Colors.Base.white}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.white}"
+          "dark": "{Colors.Base.black}"
         }
       }
     },
@@ -2702,7 +2702,7 @@
       "$value": "#FFFFFF99",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF99"
+          "dark": "#00000099"
         }
       }
     },
@@ -2711,7 +2711,7 @@
       "$value": "#FFFFFF61",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF61"
+          "dark": "#00000061"
         }
       }
     },
@@ -2720,7 +2720,7 @@
       "$value": "{Colors.Ramps.teal.98}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.98}"
+          "dark": "{Colors.Ramps.teal.10}"
         }
       }
     },
@@ -2729,7 +2729,7 @@
       "$value": "{Colors.Ramps.teal.10}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.teal.10}"
+          "dark": "{Colors.Ramps.teal.98}"
         }
       }
     },
@@ -2738,7 +2738,7 @@
       "$value": "#0B272C99",
       "$extensions": {
         "modes": {
-          "dark": "#0B272C99"
+          "dark": "#F7FCFD99"
         }
       }
     },
@@ -2747,7 +2747,7 @@
       "$value": "#0B272C61",
       "$extensions": {
         "modes": {
-          "dark": "#0B272C61"
+          "dark": "#F7FCFD61"
         }
       }
     },
@@ -2757,7 +2757,7 @@
         "$value": "{Colors.Ramps.red.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.50}"
+            "dark": "{Colors.Ramps.red.70}"
           }
         }
       },
@@ -2766,7 +2766,7 @@
         "$value": "{Colors.Ramps.orange.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.orange.50}"
+            "dark": "{Colors.Ramps.orange.70}"
           }
         }
       },
@@ -2775,7 +2775,7 @@
         "$value": "{Colors.Ramps.green.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.green.50}"
+            "dark": "{Colors.Ramps.green.70}"
           }
         }
       },
@@ -2784,7 +2784,7 @@
         "$value": "{Colors.Ramps.blue.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.50}"
+            "dark": "{Colors.Ramps.blue.70}"
           }
         }
       },
@@ -2793,7 +2793,7 @@
         "$value": "{Colors.Ramps.purple.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.purple.50}"
+            "dark": "{Colors.Ramps.purple.70}"
           }
         }
       },
@@ -2802,7 +2802,7 @@
         "$value": "{Colors.Ramps.teal.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.teal.50}"
+            "dark": "{Colors.Ramps.teal.70}"
           }
         }
       },
@@ -2811,7 +2811,7 @@
         "$value": "{Colors.Ramps.gray.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.50}"
+            "dark": "{Colors.Ramps.gray.70}"
           }
         }
       },
@@ -2831,7 +2831,7 @@
         "$value": "{Colors.Ramps.blue.53}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.53}"
+            "dark": "{Colors.Ramps.blue.67}"
           }
         }
       },
@@ -2840,7 +2840,7 @@
         "$value": "{Colors.Ramps.blue.83}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.83}"
+            "dark": "{Colors.Ramps.blue.27}"
           }
         }
       },
@@ -2858,7 +2858,7 @@
         "$value": "{Colors.Ramps.blue.38}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.38}"
+            "dark": "{Colors.Ramps.blue.45}"
           }
         }
       },
@@ -2867,7 +2867,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.blue.99}"
           }
         }
       },
@@ -2876,7 +2876,7 @@
         "$value": "{Colors.Ramps.indigo.44}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.44}"
+            "dark": "{Colors.Ramps.indigo.75}"
           }
         }
       },
@@ -2885,7 +2885,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.indigo.11}"
           }
         }
       },
@@ -2894,7 +2894,7 @@
         "$value": "{Colors.Ramps.indigo.75}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.75}"
+            "dark": "{Colors.Ramps.indigo.21}"
           }
         }
       },
@@ -2903,7 +2903,7 @@
         "$value": "{Colors.Ramps.indigo.13}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.13}"
+            "dark": "{Colors.Ramps.indigo.80}"
           }
         }
       },
@@ -2912,7 +2912,7 @@
         "$value": "{Colors.Ramps.purple.34}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.purple.34}"
+            "dark": "{Colors.Ramps.purple.89}"
           }
         }
       },
@@ -2921,7 +2921,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.purple.21}"
           }
         }
       },
@@ -2948,7 +2948,7 @@
         "$value": "{Colors.Ramps.red.30}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.30}"
+            "dark": "{Colors.Ramps.red.70}"
           }
         }
       },
@@ -2957,7 +2957,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.red.16}"
           }
         }
       },
@@ -2966,7 +2966,7 @@
         "$value": "{Colors.Ramps.red.88}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.88}"
+            "dark": "{Colors.Ramps.red.23}"
           }
         }
       },
@@ -2975,7 +2975,7 @@
         "$value": "{Colors.Ramps.red.10}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.10}"
+            "dark": "{Colors.Ramps.red.88}"
           }
         }
       },
@@ -2984,7 +2984,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.5}"
           }
         }
       },
@@ -2993,7 +2993,7 @@
         "$value": "{Colors.Ramps.gray.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.7}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -3002,7 +3002,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.5}"
           }
         }
       },
@@ -3011,7 +3011,7 @@
         "$value": "{Colors.Ramps.gray.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.7}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -3020,7 +3020,7 @@
         "$value": "{Colors.Ramps.gray.84}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.84}"
+            "dark": "{Colors.Ramps.gray.22}"
           }
         }
       },
@@ -3029,7 +3029,7 @@
         "$value": "{Colors.Ramps.gray.22}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.22}"
+            "dark": "{Colors.Ramps.gray.72}"
           }
         }
       },
@@ -3038,7 +3038,7 @@
         "$value": "{Colors.Ramps.gray.39}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.39}"
+            "dark": "{Colors.Ramps.gray.48}"
           }
         }
       },
@@ -3047,7 +3047,7 @@
         "$value": "{Colors.Ramps.gray.72}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.72}"
+            "dark": "{Colors.Ramps.gray.22}"
           }
         }
       },
@@ -3056,7 +3056,7 @@
         "$value": "{Colors.Ramps.blue.36}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.36}"
+            "dark": "{Colors.Ramps.blue.84}"
           }
         }
       },
@@ -3074,7 +3074,7 @@
         "$value": "#00000080",
         "$extensions": {
           "modes": {
-            "dark": "#00000080"
+            "dark": "#00000040"
           }
         }
       },
@@ -3083,7 +3083,7 @@
         "$value": "{Colors.Ramps.gray.15}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.15}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -3092,7 +3092,7 @@
         "$value": "{Colors.Ramps.gray.92}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.92}"
+            "dark": "{Colors.Ramps.gray.15}"
           }
         }
       },
@@ -3101,7 +3101,7 @@
         "$value": "{Colors.Ramps.blue.81}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.81}"
+            "dark": "{Colors.Ramps.blue.36}"
           }
         }
       },
@@ -3119,7 +3119,7 @@
         "$value": "{Colors.Ramps.blue.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.7}"
+            "dark": "{Colors.Ramps.blue.10}"
           }
         }
       },
@@ -3128,7 +3128,7 @@
         "$value": "{Colors.Ramps.blue.81}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.81}"
+            "dark": "{Colors.Ramps.blue.84}"
           }
         }
       },
@@ -3218,7 +3218,7 @@
         "$value": "{Colors.Ramps.gray.79}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.79}"
+            "dark": "{Colors.Ramps.gray.6}"
           }
         }
       },
@@ -3227,7 +3227,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.18}"
           }
         }
       },
@@ -3236,7 +3236,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.gray.3}"
           }
         }
       },
@@ -3245,7 +3245,7 @@
         "$value": "{Colors.Ramps.gray.94}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.94}"
+            "dark": "{Colors.Ramps.gray.7}"
           }
         }
       },
@@ -3254,7 +3254,7 @@
         "$value": "{Colors.Ramps.gray.91}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.91}"
+            "dark": "{Colors.Ramps.gray.9}"
           }
         }
       },
@@ -3263,7 +3263,7 @@
         "$value": "{Colors.Ramps.gray.89}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.89}"
+            "dark": "{Colors.Ramps.gray.13}"
           }
         }
       },
@@ -3272,7 +3272,7 @@
         "$value": "{Colors.Ramps.gray.86}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.86}"
+            "dark": "{Colors.Ramps.gray.16}"
           }
         }
       }
@@ -3284,7 +3284,7 @@
           "$value": "#0072F014",
           "$extensions": {
             "modes": {
-              "dark": "#0072F014"
+              "dark": "#ADC6FF14"
             }
           }
         },
@@ -3293,7 +3293,7 @@
           "$value": "#0072F01F",
           "$extensions": {
             "modes": {
-              "dark": "#0072F01F"
+              "dark": "#ADC6FF1F"
             }
           }
         },
@@ -3302,7 +3302,7 @@
           "$value": "#0072F029",
           "$extensions": {
             "modes": {
-              "dark": "#0072F029"
+              "dark": "#ADC6FF29"
             }
           }
         }
@@ -3313,7 +3313,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#00449314"
             }
           }
         },
@@ -3322,7 +3322,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#0044931F"
             }
           }
         },
@@ -3331,7 +3331,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#00449329"
             }
           }
         }
@@ -3342,7 +3342,7 @@
           "$value": "#D8E2FF14",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF14"
+              "dark": "#005BC114"
             }
           }
         },
@@ -3351,7 +3351,7 @@
           "$value": "#D8E2FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF1F"
+              "dark": "#005BC11F"
             }
           }
         },
@@ -3360,7 +3360,7 @@
           "$value": "#D8E2FF29",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF29"
+              "dark": "#005BC129"
             }
           }
         }
@@ -3371,7 +3371,7 @@
           "$value": "#21005D14",
           "$extensions": {
             "modes": {
-              "dark": "#21005D14"
+              "dark": "#D8E2FF14"
             }
           }
         },
@@ -3380,7 +3380,7 @@
           "$value": "#21005D1F",
           "$extensions": {
             "modes": {
-              "dark": "#21005D1F"
+              "dark": "#D8E2FF1F"
             }
           }
         },
@@ -3389,7 +3389,7 @@
           "$value": "#21005D29",
           "$extensions": {
             "modes": {
-              "dark": "#21005D29"
+              "dark": "#D8E2FF29"
             }
           }
         }
@@ -3516,7 +3516,7 @@
           "$value": "#6867E714",
           "$extensions": {
             "modes": {
-              "dark": "#6867E714"
+              "dark": "#C2C1FF14"
             }
           }
         },
@@ -3525,7 +3525,7 @@
           "$value": "#6867E71F",
           "$extensions": {
             "modes": {
-              "dark": "#6867E71F"
+              "dark": "#C2C1FF1F"
             }
           }
         },
@@ -3534,7 +3534,7 @@
           "$value": "#6867E729",
           "$extensions": {
             "modes": {
-              "dark": "#6867E729"
+              "dark": "#C2C1FF29"
             }
           }
         }
@@ -3545,7 +3545,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#3631B414"
             }
           }
         },
@@ -3554,7 +3554,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#3631B41F"
             }
           }
         },
@@ -3563,7 +3563,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#3631B429"
             }
           }
         }
@@ -3574,7 +3574,7 @@
           "$value": "#E2DFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF14"
+              "dark": "#423FC014"
             }
           }
         },
@@ -3583,7 +3583,7 @@
           "$value": "#E2DFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF1F"
+              "dark": "#423FC01F"
             }
           }
         },
@@ -3592,7 +3592,7 @@
           "$value": "#E2DFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF29"
+              "dark": "#423FC029"
             }
           }
         }
@@ -3603,7 +3603,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E2DFFF14"
             }
           }
         },
@@ -3612,7 +3612,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E2DFFF1F"
             }
           }
         },
@@ -3621,7 +3621,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E2DFFF29"
             }
           }
         }
@@ -3632,7 +3632,7 @@
           "$value": "#E2DFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF14"
+              "dark": "#423FC014"
             }
           }
         },
@@ -3641,7 +3641,7 @@
           "$value": "#E2DFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF1F"
+              "dark": "#423FC01F"
             }
           }
         },
@@ -3650,7 +3650,7 @@
           "$value": "#E2DFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF29"
+              "dark": "#423FC029"
             }
           }
         }
@@ -3748,7 +3748,7 @@
           "$value": "#8D2EBC29",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC29"
+              "dark": "#E8B3FF29"
             }
           }
         },
@@ -3757,7 +3757,7 @@
           "$value": "#8D2EBC14",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC14"
+              "dark": "#E8B3FF14"
             }
           }
         },
@@ -3766,7 +3766,7 @@
           "$value": "#8D2EBC1F",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC1F"
+              "dark": "#E8B3FF1F"
             }
           }
         }
@@ -3777,7 +3777,7 @@
           "$value": "#F6D9FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF1F"
+              "dark": "#61008B1F"
             }
           }
         },
@@ -3786,7 +3786,7 @@
           "$value": "#F6D9FF29",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF29"
+              "dark": "#61008B29"
             }
           }
         },
@@ -3795,7 +3795,7 @@
           "$value": "#F6D9FF14",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF14"
+              "dark": "#61008B14"
             }
           }
         }
@@ -3806,7 +3806,7 @@
           "$value": "#F6D9FF14",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF14"
+              "dark": "#6B2F4514"
             }
           }
         },
@@ -3815,7 +3815,7 @@
           "$value": "#F6D9FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF1F"
+              "dark": "#6B2F451F"
             }
           }
         },
@@ -3824,7 +3824,7 @@
           "$value": "#F6D9FF29",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF29"
+              "dark": "#6B2F4529"
             }
           }
         }
@@ -3835,7 +3835,7 @@
           "$value": "#31004829",
           "$extensions": {
             "modes": {
-              "dark": "#31004829"
+              "dark": "#F6D9FF29"
             }
           }
         },
@@ -3844,7 +3844,7 @@
           "$value": "#31004814",
           "$extensions": {
             "modes": {
-              "dark": "#31004814"
+              "dark": "#F6D9FF14"
             }
           }
         },
@@ -3853,7 +3853,7 @@
           "$value": "#3100481F",
           "$extensions": {
             "modes": {
-              "dark": "#3100481F"
+              "dark": "#F6D9FF1F"
             }
           }
         }
@@ -3980,7 +3980,7 @@
           "$value": "#C0000A14",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A14"
+              "dark": "#FFB4AA14"
             }
           }
         },
@@ -3989,7 +3989,7 @@
           "$value": "#C0000A1F",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A1F"
+              "dark": "#FFB4AA1F"
             }
           }
         },
@@ -3998,7 +3998,7 @@
           "$value": "#C0000A29",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A29"
+              "dark": "#FFB4AA29"
             }
           }
         }
@@ -4009,7 +4009,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#69000314"
             }
           }
         },
@@ -4018,7 +4018,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#6900031F"
             }
           }
         },
@@ -4027,7 +4027,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#69000329"
             }
           }
         }
@@ -4038,7 +4038,7 @@
           "$value": "#FFDAD514",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD514"
+              "dark": "#7E000414"
             }
           }
         },
@@ -4047,7 +4047,7 @@
           "$value": "#FFDAD51F",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD51F"
+              "dark": "#7E00041F"
             }
           }
         },
@@ -4056,7 +4056,7 @@
           "$value": "#FFDAD529",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD529"
+              "dark": "#7E000429"
             }
           }
         }
@@ -4067,7 +4067,7 @@
           "$value": "#41000114",
           "$extensions": {
             "modes": {
-              "dark": "#41000114"
+              "dark": "#FFDAD514"
             }
           }
         },
@@ -4076,7 +4076,7 @@
           "$value": "#4100011F",
           "$extensions": {
             "modes": {
-              "dark": "#4100011F"
+              "dark": "#FFDAD51F"
             }
           }
         },
@@ -4085,7 +4085,7 @@
           "$value": "#41000129",
           "$extensions": {
             "modes": {
-              "dark": "#41000129"
+              "dark": "#FFDAD529"
             }
           }
         }
@@ -4096,7 +4096,7 @@
           "$value": "#76777B14",
           "$extensions": {
             "modes": {
-              "dark": "#76777B14"
+              "dark": "#90909514"
             }
           }
         },
@@ -4105,7 +4105,7 @@
           "$value": "#76777B1F",
           "$extensions": {
             "modes": {
-              "dark": "#76777B1F"
+              "dark": "#9090951F"
             }
           }
         },
@@ -4114,7 +4114,7 @@
           "$value": "#76777B29",
           "$extensions": {
             "modes": {
-              "dark": "#76777B29"
+              "dark": "#90909529"
             }
           }
         }
@@ -4125,7 +4125,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#1011151F"
             }
           }
         },
@@ -4134,7 +4134,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#10111514"
             }
           }
         },
@@ -4143,7 +4143,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#10111529"
             }
           }
         }
@@ -4154,7 +4154,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E3E2E729"
             }
           }
         },
@@ -4163,7 +4163,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -4172,7 +4172,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E3E2E71F"
             }
           }
         }
@@ -4183,7 +4183,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#10111514"
             }
           }
         },
@@ -4192,7 +4192,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#1412181F"
             }
           }
         },
@@ -4201,7 +4201,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#10111529"
             }
           }
         }
@@ -4212,7 +4212,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -4221,7 +4221,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E3E2E71F"
             }
           }
         },
@@ -4230,7 +4230,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E3E2E729"
             }
           }
         }
@@ -4241,7 +4241,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#46464B14"
             }
           }
         },
@@ -4250,7 +4250,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#46464B1F"
             }
           }
         },
@@ -4259,7 +4259,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#46464B29"
             }
           }
         }
@@ -4270,7 +4270,7 @@
           "$value": "#46464B14",
           "$extensions": {
             "modes": {
-              "dark": "#46464B14"
+              "dark": "#C6C6CB14"
             }
           }
         },
@@ -4279,7 +4279,7 @@
           "$value": "#46464B1F",
           "$extensions": {
             "modes": {
-              "dark": "#46464B1F"
+              "dark": "#C6C6CB1F"
             }
           }
         },
@@ -4288,7 +4288,7 @@
           "$value": "#46464B29",
           "$extensions": {
             "modes": {
-              "dark": "#46464B29"
+              "dark": "#C6C6CB29"
             }
           }
         }
@@ -4299,7 +4299,7 @@
           "$value": "#3A3B3F14",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -4308,7 +4308,7 @@
           "$value": "#3A3B3F29",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F29"
+              "dark": "#E3E2E729"
             }
           }
         },
@@ -4317,7 +4317,7 @@
           "$value": "#3A3B3F1F",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F1F"
+              "dark": "#E3E2E71F"
             }
           }
         }
@@ -4328,7 +4328,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#3A3B3F29"
             }
           }
         },
@@ -4337,7 +4337,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -4346,7 +4346,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#3A3B3F14"
             }
           }
         }
@@ -4357,7 +4357,7 @@
           "$value": "#ADC6FF14",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF14"
+              "dark": "#005BC114"
             }
           }
         },
@@ -4366,7 +4366,7 @@
           "$value": "#ADC6FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF1F"
+              "dark": "#005BC11F"
             }
           }
         },
@@ -4375,7 +4375,7 @@
           "$value": "#ADC6FF29",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF29"
+              "dark": "#005BC129"
             }
           }
         }
@@ -4415,7 +4415,7 @@
           "$value": "#005BC114",
           "$extensions": {
             "modes": {
-              "dark": "#005BC114"
+              "dark": "#ADC6FF14"
             }
           }
         },
@@ -4424,7 +4424,7 @@
           "$value": "#005BC11F",
           "$extensions": {
             "modes": {
-              "dark": "#005BC11F"
+              "dark": "#ADC6FF1F"
             }
           }
         },
@@ -4433,7 +4433,7 @@
           "$value": "#005BC129",
           "$extensions": {
             "modes": {
-              "dark": "#005BC129"
+              "dark": "#ADC6FF29"
             }
           }
         }
@@ -4444,7 +4444,7 @@
           "$value": "#C6C6CB14",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB14"
+              "dark": "#46464B14"
             }
           }
         },
@@ -4453,7 +4453,7 @@
           "$value": "#C6C6CB1F",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB1F"
+              "dark": "#46464B1F"
             }
           }
         },
@@ -4462,7 +4462,7 @@
           "$value": "#C6C6CB29",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB29"
+              "dark": "#46464B29"
             }
           }
         }
@@ -4502,7 +4502,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#3A3B3F14"
             }
           }
         },
@@ -4511,7 +4511,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -4520,7 +4520,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#3A3B3F29"
             }
           }
         }
@@ -4531,7 +4531,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#2F303414"
             }
           }
         },
@@ -4540,7 +4540,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#2F30341F"
             }
           }
         },
@@ -4549,7 +4549,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#2F303429"
             }
           }
         }
@@ -4560,7 +4560,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#24262A14"
             }
           }
         },
@@ -4569,7 +4569,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#24262A1F"
             }
           }
         },
@@ -4578,7 +4578,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#24262A29"
             }
           }
         }
@@ -4589,7 +4589,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#1A1B1F14"
             }
           }
         },
@@ -4598,7 +4598,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#1A1B1F1F"
             }
           }
         },
@@ -4607,7 +4607,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#1A1B1F29"
             }
           }
         }
@@ -4618,7 +4618,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#00000014"
             }
           }
         },
@@ -4627,7 +4627,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#0000001F"
             }
           }
         },
@@ -4636,7 +4636,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#00000029"
             }
           }
         }
@@ -4647,7 +4647,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#3A3B3F14"
             }
           }
         },
@@ -4656,7 +4656,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -4665,7 +4665,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#3A3B3F29"
             }
           }
         }
@@ -4676,7 +4676,7 @@
           "$value": "#C6C6CB14",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB14"
+              "dark": "#10111514"
             }
           }
         },
@@ -4685,7 +4685,7 @@
           "$value": "#C6C6CB1F",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB1F"
+              "dark": "#1011151F"
             }
           }
         },
@@ -4694,7 +4694,7 @@
           "$value": "#C6C6CB29",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB29"
+              "dark": "#10111529"
             }
           }
         }
@@ -4706,7 +4706,7 @@
         "$value": "{Colors.Base.black}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.black}"
+            "dark": "{Colors.Base.white}"
           }
         }
       },
@@ -4715,7 +4715,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Base.black}"
           }
         }
       },
@@ -4724,7 +4724,7 @@
         "$value": "{Colors.Ramps.red.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.50}"
+            "dark": "{Colors.Ramps.red.70}"
           }
         }
       },
@@ -4733,7 +4733,7 @@
         "$value": "{Colors.Ramps.orange.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.orange.50}"
+            "dark": "{Colors.Ramps.orange.70}"
           }
         }
       },
@@ -4742,7 +4742,7 @@
         "$value": "{Colors.Ramps.yellow.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.yellow.50}"
+            "dark": "{Colors.Ramps.yellow.70}"
           }
         }
       },
@@ -4751,7 +4751,7 @@
         "$value": "{Colors.Ramps.green.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.green.50}"
+            "dark": "{Colors.Ramps.green.70}"
           }
         }
       },
@@ -4760,7 +4760,7 @@
         "$value": "{Colors.Ramps.teal.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.teal.50}"
+            "dark": "{Colors.Ramps.teal.70}"
           }
         }
       },
@@ -4769,7 +4769,7 @@
         "$value": "{Colors.Ramps.cyan.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.cyan.50}"
+            "dark": "{Colors.Ramps.cyan.70}"
           }
         }
       },
@@ -4778,7 +4778,7 @@
         "$value": "{Colors.Ramps.blue.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.50}"
+            "dark": "{Colors.Ramps.blue.70}"
           }
         }
       },
@@ -4787,7 +4787,7 @@
         "$value": "{Colors.Ramps.indigo.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.50}"
+            "dark": "{Colors.Ramps.indigo.70}"
           }
         }
       },
@@ -4796,7 +4796,7 @@
         "$value": "{Colors.Ramps.purple.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.purple.50}"
+            "dark": "{Colors.Ramps.purple.70}"
           }
         }
       },
@@ -4805,7 +4805,7 @@
         "$value": "{Colors.Ramps.pink.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.pink.50}"
+            "dark": "{Colors.Ramps.pink.70}"
           }
         }
       },
@@ -4814,7 +4814,7 @@
         "$value": "{Colors.Ramps.brown.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.brown.50}"
+            "dark": "{Colors.Ramps.brown.70}"
           }
         }
       },
@@ -4823,7 +4823,7 @@
         "$value": "{Colors.Ramps.gray.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.50}"
+            "dark": "{Colors.Ramps.gray.70}"
           }
         }
       }
@@ -5175,7 +5175,7 @@
       "$value": "{Colors.Ramps.indigo.90}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.90}"
+          "dark": "{Colors.Ramps.indigo.20}"
         }
       }
     },
@@ -5184,7 +5184,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -5193,7 +5193,7 @@
       "$value": "#00000099",
       "$extensions": {
         "modes": {
-          "dark": "#00000099"
+          "dark": "#FFFFFF99"
         }
       }
     },
@@ -5202,7 +5202,7 @@
       "$value": "#00000061",
       "$extensions": {
         "modes": {
-          "dark": "#00000061"
+          "dark": "#FFFFFF61"
         }
       }
     },
@@ -5211,7 +5211,7 @@
       "$value": "{Colors.Ramps.indigo.80}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.80}"
+          "dark": "{Colors.Ramps.indigo.30}"
         }
       }
     },
@@ -5220,7 +5220,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -5229,7 +5229,7 @@
       "$value": "#00000099",
       "$extensions": {
         "modes": {
-          "dark": "#00000099"
+          "dark": "#FFFFFF99"
         }
       }
     },
@@ -5238,7 +5238,7 @@
       "$value": "#00000061",
       "$extensions": {
         "modes": {
-          "dark": "#00000061"
+          "dark": "#FFFFFF61"
         }
       }
     },
@@ -5247,7 +5247,7 @@
       "$value": "{Colors.Ramps.indigo.70}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.70}"
+          "dark": "{Colors.Ramps.indigo.40}"
         }
       }
     },
@@ -5256,7 +5256,7 @@
       "$value": "{Colors.Base.black}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.black}"
+          "dark": "{Colors.Base.white}"
         }
       }
     },
@@ -5265,7 +5265,7 @@
       "$value": "#00000099",
       "$extensions": {
         "modes": {
-          "dark": "#00000099"
+          "dark": "#FFFFFF99"
         }
       }
     },
@@ -5274,7 +5274,7 @@
       "$value": "#00000061",
       "$extensions": {
         "modes": {
-          "dark": "#00000061"
+          "dark": "#FFFFFF61"
         }
       }
     },
@@ -5319,7 +5319,7 @@
       "$value": "{Colors.Ramps.indigo.40}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.40}"
+          "dark": "{Colors.Ramps.indigo.70}"
         }
       }
     },
@@ -5328,7 +5328,7 @@
       "$value": "{Colors.Base.white}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.white}"
+          "dark": "{Colors.Base.black}"
         }
       }
     },
@@ -5355,7 +5355,7 @@
       "$value": "{Colors.Ramps.indigo.30}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.30}"
+          "dark": "{Colors.Ramps.indigo.80}"
         }
       }
     },
@@ -5364,7 +5364,7 @@
       "$value": "{Colors.Base.white}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.white}"
+          "dark": "{Colors.Base.black}"
         }
       }
     },
@@ -5373,7 +5373,7 @@
       "$value": "#FFFFFF99",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF99"
+          "dark": "#00000099"
         }
       }
     },
@@ -5382,7 +5382,7 @@
       "$value": "#FFFFFF61",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF61"
+          "dark": "#00000061"
         }
       }
     },
@@ -5391,7 +5391,7 @@
       "$value": "{Colors.Ramps.indigo.20}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.20}"
+          "dark": "{Colors.Ramps.indigo.90}"
         }
       }
     },
@@ -5400,7 +5400,7 @@
       "$value": "{Colors.Base.white}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Base.white}"
+          "dark": "{Colors.Base.black}"
         }
       }
     },
@@ -5409,7 +5409,7 @@
       "$value": "#FFFFFF99",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF99"
+          "dark": "#00000099"
         }
       }
     },
@@ -5418,7 +5418,7 @@
       "$value": "#FFFFFF61",
       "$extensions": {
         "modes": {
-          "dark": "#FFFFFF61"
+          "dark": "#00000061"
         }
       }
     },
@@ -5427,7 +5427,7 @@
       "$value": "{Colors.Ramps.indigo.98}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.98}"
+          "dark": "{Colors.Ramps.indigo.10}"
         }
       }
     },
@@ -5436,7 +5436,7 @@
       "$value": "{Colors.Ramps.indigo.10}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.indigo.10}"
+          "dark": "{Colors.Ramps.indigo.98}"
         }
       }
     },
@@ -5445,7 +5445,7 @@
       "$value": "#0E0D3599",
       "$extensions": {
         "modes": {
-          "dark": "#0E0D3599"
+          "dark": "#F8F8FD99"
         }
       }
     },
@@ -5454,7 +5454,7 @@
       "$value": "#0E0D3561",
       "$extensions": {
         "modes": {
-          "dark": "#0E0D3561"
+          "dark": "#F8F8FD61"
         }
       }
     },
@@ -5464,7 +5464,7 @@
         "$value": "{Colors.Ramps.red.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.50}"
+            "dark": "{Colors.Ramps.red.70}"
           }
         }
       },
@@ -5473,7 +5473,7 @@
         "$value": "{Colors.Ramps.orange.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.orange.50}"
+            "dark": "{Colors.Ramps.orange.70}"
           }
         }
       },
@@ -5482,7 +5482,7 @@
         "$value": "{Colors.Ramps.green.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.green.50}"
+            "dark": "{Colors.Ramps.green.70}"
           }
         }
       },
@@ -5491,7 +5491,7 @@
         "$value": "{Colors.Ramps.blue.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.50}"
+            "dark": "{Colors.Ramps.blue.70}"
           }
         }
       },
@@ -5500,7 +5500,7 @@
         "$value": "{Colors.Ramps.purple.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.purple.50}"
+            "dark": "{Colors.Ramps.purple.70}"
           }
         }
       },
@@ -5509,7 +5509,7 @@
         "$value": "{Colors.Ramps.teal.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.teal.50}"
+            "dark": "{Colors.Ramps.teal.70}"
           }
         }
       },
@@ -5518,7 +5518,7 @@
         "$value": "{Colors.Ramps.gray.50}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.50}"
+            "dark": "{Colors.Ramps.gray.70}"
           }
         }
       },
@@ -5547,7 +5547,7 @@
         "$value": "{Colors.Ramps.blue.83}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.83}"
+            "dark": "{Colors.Ramps.blue.27}"
           }
         }
       },
@@ -5565,7 +5565,7 @@
         "$value": "{Colors.Ramps.blue.38}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.38}"
+            "dark": "{Colors.Ramps.blue.45}"
           }
         }
       },
@@ -5574,7 +5574,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.blue.99}"
           }
         }
       },
@@ -5583,7 +5583,7 @@
         "$value": "{Colors.Ramps.indigo.44}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.44}"
+            "dark": "{Colors.Ramps.indigo.75}"
           }
         }
       },
@@ -5592,7 +5592,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.indigo.11}"
           }
         }
       },
@@ -5601,7 +5601,7 @@
         "$value": "{Colors.Ramps.indigo.75}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.75}"
+            "dark": "{Colors.Ramps.indigo.21}"
           }
         }
       },
@@ -5610,7 +5610,7 @@
         "$value": "{Colors.Ramps.indigo.13}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.indigo.13}"
+            "dark": "{Colors.Ramps.indigo.80}"
           }
         }
       },
@@ -5619,7 +5619,7 @@
         "$value": "{Colors.Ramps.purple.34}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.purple.34}"
+            "dark": "{Colors.Ramps.purple.89}"
           }
         }
       },
@@ -5628,7 +5628,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.purple.21}"
           }
         }
       },
@@ -5655,7 +5655,7 @@
         "$value": "{Colors.Ramps.red.30}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.30}"
+            "dark": "{Colors.Ramps.red.70}"
           }
         }
       },
@@ -5664,7 +5664,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.red.16}"
           }
         }
       },
@@ -5673,7 +5673,7 @@
         "$value": "{Colors.Ramps.red.88}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.88}"
+            "dark": "{Colors.Ramps.red.23}"
           }
         }
       },
@@ -5682,7 +5682,7 @@
         "$value": "{Colors.Ramps.red.10}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.red.10}"
+            "dark": "{Colors.Ramps.red.88}"
           }
         }
       },
@@ -5691,7 +5691,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.5}"
           }
         }
       },
@@ -5700,7 +5700,7 @@
         "$value": "{Colors.Ramps.gray.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.7}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -5709,7 +5709,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.5}"
           }
         }
       },
@@ -5718,7 +5718,7 @@
         "$value": "{Colors.Ramps.gray.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.7}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -5727,7 +5727,7 @@
         "$value": "{Colors.Ramps.gray.84}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.84}"
+            "dark": "{Colors.Ramps.gray.22}"
           }
         }
       },
@@ -5736,7 +5736,7 @@
         "$value": "{Colors.Ramps.gray.22}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.22}"
+            "dark": "{Colors.Ramps.gray.72}"
           }
         }
       },
@@ -5745,7 +5745,7 @@
         "$value": "{Colors.Ramps.gray.39}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.39}"
+            "dark": "{Colors.Ramps.gray.48}"
           }
         }
       },
@@ -5754,7 +5754,7 @@
         "$value": "{Colors.Ramps.gray.72}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.72}"
+            "dark": "{Colors.Ramps.gray.22}"
           }
         }
       },
@@ -5763,7 +5763,7 @@
         "$value": "{Colors.Ramps.blue.36}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.36}"
+            "dark": "{Colors.Ramps.blue.84}"
           }
         }
       },
@@ -5781,7 +5781,7 @@
         "$value": "#00000080",
         "$extensions": {
           "modes": {
-            "dark": "#00000080"
+            "dark": "#00000040"
           }
         }
       },
@@ -5790,7 +5790,7 @@
         "$value": "{Colors.Ramps.gray.15}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.15}"
+            "dark": "{Colors.Ramps.gray.86}"
           }
         }
       },
@@ -5799,7 +5799,7 @@
         "$value": "{Colors.Ramps.gray.92}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.92}"
+            "dark": "{Colors.Ramps.gray.15}"
           }
         }
       },
@@ -5808,7 +5808,7 @@
         "$value": "{Colors.Ramps.blue.81}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.81}"
+            "dark": "{Colors.Ramps.blue.36}"
           }
         }
       },
@@ -5826,7 +5826,7 @@
         "$value": "{Colors.Ramps.blue.7}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.7}"
+            "dark": "{Colors.Ramps.blue.10}"
           }
         }
       },
@@ -5835,7 +5835,7 @@
         "$value": "{Colors.Ramps.blue.81}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.blue.81}"
+            "dark": "{Colors.Ramps.blue.84}"
           }
         }
       },
@@ -5925,7 +5925,7 @@
         "$value": "{Colors.Ramps.gray.79}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.79}"
+            "dark": "{Colors.Ramps.gray.6}"
           }
         }
       },
@@ -5934,7 +5934,7 @@
         "$value": "{Colors.Ramps.gray.97}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.97}"
+            "dark": "{Colors.Ramps.gray.18}"
           }
         }
       },
@@ -5943,7 +5943,7 @@
         "$value": "{Colors.Base.white}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Base.white}"
+            "dark": "{Colors.Ramps.gray.3}"
           }
         }
       },
@@ -5952,7 +5952,7 @@
         "$value": "{Colors.Ramps.gray.94}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.94}"
+            "dark": "{Colors.Ramps.gray.7}"
           }
         }
       },
@@ -5961,7 +5961,7 @@
         "$value": "{Colors.Ramps.gray.91}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.91}"
+            "dark": "{Colors.Ramps.gray.9}"
           }
         }
       },
@@ -5970,7 +5970,7 @@
         "$value": "{Colors.Ramps.gray.89}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.89}"
+            "dark": "{Colors.Ramps.gray.13}"
           }
         }
       },
@@ -5979,7 +5979,7 @@
         "$value": "{Colors.Ramps.gray.86}",
         "$extensions": {
           "modes": {
-            "dark": "{Colors.Ramps.gray.86}"
+            "dark": "{Colors.Ramps.gray.16}"
           }
         }
       }
@@ -5991,7 +5991,7 @@
           "$value": "#0072F014",
           "$extensions": {
             "modes": {
-              "dark": "#0072F014"
+              "dark": "#ADC6FF14"
             }
           }
         },
@@ -6000,7 +6000,7 @@
           "$value": "#0072F01F",
           "$extensions": {
             "modes": {
-              "dark": "#0072F01F"
+              "dark": "#ADC6FF1F"
             }
           }
         },
@@ -6009,7 +6009,7 @@
           "$value": "#0072F029",
           "$extensions": {
             "modes": {
-              "dark": "#0072F029"
+              "dark": "#ADC6FF29"
             }
           }
         }
@@ -6020,7 +6020,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#00449314"
             }
           }
         },
@@ -6029,7 +6029,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#0044931F"
             }
           }
         },
@@ -6038,7 +6038,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#00449329"
             }
           }
         }
@@ -6049,7 +6049,7 @@
           "$value": "#D8E2FF14",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF14"
+              "dark": "#005BC114"
             }
           }
         },
@@ -6058,7 +6058,7 @@
           "$value": "#D8E2FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF1F"
+              "dark": "#005BC11F"
             }
           }
         },
@@ -6067,7 +6067,7 @@
           "$value": "#D8E2FF29",
           "$extensions": {
             "modes": {
-              "dark": "#D8E2FF29"
+              "dark": "#005BC129"
             }
           }
         }
@@ -6078,7 +6078,7 @@
           "$value": "#21005D14",
           "$extensions": {
             "modes": {
-              "dark": "#21005D14"
+              "dark": "#D8E2FF14"
             }
           }
         },
@@ -6087,7 +6087,7 @@
           "$value": "#21005D1F",
           "$extensions": {
             "modes": {
-              "dark": "#21005D1F"
+              "dark": "#D8E2FF1F"
             }
           }
         },
@@ -6096,7 +6096,7 @@
           "$value": "#21005D29",
           "$extensions": {
             "modes": {
-              "dark": "#21005D29"
+              "dark": "#D8E2FF29"
             }
           }
         }
@@ -6223,7 +6223,7 @@
           "$value": "#6867E714",
           "$extensions": {
             "modes": {
-              "dark": "#6867E714"
+              "dark": "#C2C1FF14"
             }
           }
         },
@@ -6232,7 +6232,7 @@
           "$value": "#6867E71F",
           "$extensions": {
             "modes": {
-              "dark": "#6867E71F"
+              "dark": "#C2C1FF1F"
             }
           }
         },
@@ -6241,7 +6241,7 @@
           "$value": "#6867E729",
           "$extensions": {
             "modes": {
-              "dark": "#6867E729"
+              "dark": "#C2C1FF29"
             }
           }
         }
@@ -6252,7 +6252,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#3631B414"
             }
           }
         },
@@ -6261,7 +6261,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#3631B41F"
             }
           }
         },
@@ -6270,7 +6270,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#3631B429"
             }
           }
         }
@@ -6281,7 +6281,7 @@
           "$value": "#E2DFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF14"
+              "dark": "#423FC014"
             }
           }
         },
@@ -6290,7 +6290,7 @@
           "$value": "#E2DFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF1F"
+              "dark": "#423FC01F"
             }
           }
         },
@@ -6299,7 +6299,7 @@
           "$value": "#E2DFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF29"
+              "dark": "#423FC029"
             }
           }
         }
@@ -6310,7 +6310,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E2DFFF14"
             }
           }
         },
@@ -6319,7 +6319,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E2DFFF1F"
             }
           }
         },
@@ -6328,7 +6328,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E2DFFF29"
             }
           }
         }
@@ -6339,7 +6339,7 @@
           "$value": "#E2DFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF14"
+              "dark": "#423FC014"
             }
           }
         },
@@ -6348,7 +6348,7 @@
           "$value": "#E2DFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF1F"
+              "dark": "#423FC01F"
             }
           }
         },
@@ -6357,7 +6357,7 @@
           "$value": "#E2DFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#E2DFFF29"
+              "dark": "#423FC029"
             }
           }
         }
@@ -6455,7 +6455,7 @@
           "$value": "#8D2EBC29",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC29"
+              "dark": "#E8B3FF29"
             }
           }
         },
@@ -6464,7 +6464,7 @@
           "$value": "#8D2EBC14",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC14"
+              "dark": "#E8B3FF14"
             }
           }
         },
@@ -6473,7 +6473,7 @@
           "$value": "#8D2EBC1F",
           "$extensions": {
             "modes": {
-              "dark": "#8D2EBC1F"
+              "dark": "#E8B3FF1F"
             }
           }
         }
@@ -6484,7 +6484,7 @@
           "$value": "#F6D9FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF1F"
+              "dark": "#61008B1F"
             }
           }
         },
@@ -6493,7 +6493,7 @@
           "$value": "#F6D9FF29",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF29"
+              "dark": "#61008B29"
             }
           }
         },
@@ -6502,7 +6502,7 @@
           "$value": "#F6D9FF14",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF14"
+              "dark": "#61008B14"
             }
           }
         }
@@ -6513,7 +6513,7 @@
           "$value": "#F6D9FF14",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF14"
+              "dark": "#6B2F4514"
             }
           }
         },
@@ -6522,7 +6522,7 @@
           "$value": "#F6D9FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF1F"
+              "dark": "#6B2F451F"
             }
           }
         },
@@ -6531,7 +6531,7 @@
           "$value": "#F6D9FF29",
           "$extensions": {
             "modes": {
-              "dark": "#F6D9FF29"
+              "dark": "#6B2F4529"
             }
           }
         }
@@ -6542,7 +6542,7 @@
           "$value": "#31004829",
           "$extensions": {
             "modes": {
-              "dark": "#31004829"
+              "dark": "#F6D9FF29"
             }
           }
         },
@@ -6551,7 +6551,7 @@
           "$value": "#31004814",
           "$extensions": {
             "modes": {
-              "dark": "#31004814"
+              "dark": "#F6D9FF14"
             }
           }
         },
@@ -6560,7 +6560,7 @@
           "$value": "#3100481F",
           "$extensions": {
             "modes": {
-              "dark": "#3100481F"
+              "dark": "#F6D9FF1F"
             }
           }
         }
@@ -6687,7 +6687,7 @@
           "$value": "#C0000A14",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A14"
+              "dark": "#FFB4AA14"
             }
           }
         },
@@ -6696,7 +6696,7 @@
           "$value": "#C0000A1F",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A1F"
+              "dark": "#FFB4AA1F"
             }
           }
         },
@@ -6705,7 +6705,7 @@
           "$value": "#C0000A29",
           "$extensions": {
             "modes": {
-              "dark": "#C0000A29"
+              "dark": "#FFB4AA29"
             }
           }
         }
@@ -6716,7 +6716,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#69000314"
             }
           }
         },
@@ -6725,7 +6725,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#6900031F"
             }
           }
         },
@@ -6734,7 +6734,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#69000329"
             }
           }
         }
@@ -6745,7 +6745,7 @@
           "$value": "#FFDAD514",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD514"
+              "dark": "#7E000414"
             }
           }
         },
@@ -6754,7 +6754,7 @@
           "$value": "#FFDAD51F",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD51F"
+              "dark": "#7E00041F"
             }
           }
         },
@@ -6763,7 +6763,7 @@
           "$value": "#FFDAD529",
           "$extensions": {
             "modes": {
-              "dark": "#FFDAD529"
+              "dark": "#7E000429"
             }
           }
         }
@@ -6774,7 +6774,7 @@
           "$value": "#41000114",
           "$extensions": {
             "modes": {
-              "dark": "#41000114"
+              "dark": "#FFDAD514"
             }
           }
         },
@@ -6783,7 +6783,7 @@
           "$value": "#4100011F",
           "$extensions": {
             "modes": {
-              "dark": "#4100011F"
+              "dark": "#FFDAD51F"
             }
           }
         },
@@ -6792,7 +6792,7 @@
           "$value": "#41000129",
           "$extensions": {
             "modes": {
-              "dark": "#41000129"
+              "dark": "#FFDAD529"
             }
           }
         }
@@ -6803,7 +6803,7 @@
           "$value": "#76777B14",
           "$extensions": {
             "modes": {
-              "dark": "#76777B14"
+              "dark": "#90909514"
             }
           }
         },
@@ -6812,7 +6812,7 @@
           "$value": "#76777B1F",
           "$extensions": {
             "modes": {
-              "dark": "#76777B1F"
+              "dark": "#9090951F"
             }
           }
         },
@@ -6821,7 +6821,7 @@
           "$value": "#76777B29",
           "$extensions": {
             "modes": {
-              "dark": "#76777B29"
+              "dark": "#90909529"
             }
           }
         }
@@ -6832,7 +6832,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#1011151F"
             }
           }
         },
@@ -6841,7 +6841,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#10111514"
             }
           }
         },
@@ -6850,7 +6850,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#10111529"
             }
           }
         }
@@ -6861,7 +6861,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E3E2E729"
             }
           }
         },
@@ -6870,7 +6870,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -6879,7 +6879,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E3E2E71F"
             }
           }
         }
@@ -6890,7 +6890,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#10111514"
             }
           }
         },
@@ -6899,7 +6899,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#1412181F"
             }
           }
         },
@@ -6908,7 +6908,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#10111529"
             }
           }
         }
@@ -6919,7 +6919,7 @@
           "$value": "#1A1B1F14",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -6928,7 +6928,7 @@
           "$value": "#1A1B1F1F",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F1F"
+              "dark": "#E3E2E71F"
             }
           }
         },
@@ -6937,7 +6937,7 @@
           "$value": "#1A1B1F29",
           "$extensions": {
             "modes": {
-              "dark": "#1A1B1F29"
+              "dark": "#E3E2E729"
             }
           }
         }
@@ -6948,7 +6948,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#46464B14"
             }
           }
         },
@@ -6957,7 +6957,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#46464B1F"
             }
           }
         },
@@ -6966,7 +6966,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#46464B29"
             }
           }
         }
@@ -6977,7 +6977,7 @@
           "$value": "#46464B14",
           "$extensions": {
             "modes": {
-              "dark": "#46464B14"
+              "dark": "#C6C6CB14"
             }
           }
         },
@@ -6986,7 +6986,7 @@
           "$value": "#46464B1F",
           "$extensions": {
             "modes": {
-              "dark": "#46464B1F"
+              "dark": "#C6C6CB1F"
             }
           }
         },
@@ -6995,7 +6995,7 @@
           "$value": "#46464B29",
           "$extensions": {
             "modes": {
-              "dark": "#46464B29"
+              "dark": "#C6C6CB29"
             }
           }
         }
@@ -7006,7 +7006,7 @@
           "$value": "#3A3B3F14",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F14"
+              "dark": "#E3E2E714"
             }
           }
         },
@@ -7015,7 +7015,7 @@
           "$value": "#3A3B3F29",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F29"
+              "dark": "#E3E2E729"
             }
           }
         },
@@ -7024,7 +7024,7 @@
           "$value": "#3A3B3F1F",
           "$extensions": {
             "modes": {
-              "dark": "#3A3B3F1F"
+              "dark": "#E3E2E71F"
             }
           }
         }
@@ -7035,7 +7035,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#3A3B3F29"
             }
           }
         },
@@ -7044,7 +7044,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -7053,7 +7053,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#3A3B3F14"
             }
           }
         }
@@ -7064,7 +7064,7 @@
           "$value": "#ADC6FF14",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF14"
+              "dark": "#005BC114"
             }
           }
         },
@@ -7073,7 +7073,7 @@
           "$value": "#ADC6FF1F",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF1F"
+              "dark": "#005BC11F"
             }
           }
         },
@@ -7082,7 +7082,7 @@
           "$value": "#ADC6FF29",
           "$extensions": {
             "modes": {
-              "dark": "#ADC6FF29"
+              "dark": "#005BC129"
             }
           }
         }
@@ -7122,7 +7122,7 @@
           "$value": "#005BC114",
           "$extensions": {
             "modes": {
-              "dark": "#005BC114"
+              "dark": "#ADC6FF14"
             }
           }
         },
@@ -7131,7 +7131,7 @@
           "$value": "#005BC11F",
           "$extensions": {
             "modes": {
-              "dark": "#005BC11F"
+              "dark": "#ADC6FF1F"
             }
           }
         },
@@ -7140,7 +7140,7 @@
           "$value": "#005BC129",
           "$extensions": {
             "modes": {
-              "dark": "#005BC129"
+              "dark": "#ADC6FF29"
             }
           }
         }
@@ -7151,7 +7151,7 @@
           "$value": "#C6C6CB14",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB14"
+              "dark": "#46464B14"
             }
           }
         },
@@ -7160,7 +7160,7 @@
           "$value": "#C6C6CB1F",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB1F"
+              "dark": "#46464B1F"
             }
           }
         },
@@ -7169,7 +7169,7 @@
           "$value": "#C6C6CB29",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB29"
+              "dark": "#46464B29"
             }
           }
         }
@@ -7209,7 +7209,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#3A3B3F14"
             }
           }
         },
@@ -7218,7 +7218,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -7227,7 +7227,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#3A3B3F29"
             }
           }
         }
@@ -7238,7 +7238,7 @@
           "$value": "#E3E2E714",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E714"
+              "dark": "#2F303414"
             }
           }
         },
@@ -7247,7 +7247,7 @@
           "$value": "#E3E2E71F",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E71F"
+              "dark": "#2F30341F"
             }
           }
         },
@@ -7256,7 +7256,7 @@
           "$value": "#E3E2E729",
           "$extensions": {
             "modes": {
-              "dark": "#E3E2E729"
+              "dark": "#2F303429"
             }
           }
         }
@@ -7267,7 +7267,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#24262A14"
             }
           }
         },
@@ -7276,7 +7276,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#24262A1F"
             }
           }
         },
@@ -7285,7 +7285,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#24262A29"
             }
           }
         }
@@ -7296,7 +7296,7 @@
           "$value": "#F1F0F514",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F514"
+              "dark": "#1A1B1F14"
             }
           }
         },
@@ -7305,7 +7305,7 @@
           "$value": "#F1F0F51F",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F51F"
+              "dark": "#1A1B1F1F"
             }
           }
         },
@@ -7314,7 +7314,7 @@
           "$value": "#F1F0F529",
           "$extensions": {
             "modes": {
-              "dark": "#F1F0F529"
+              "dark": "#1A1B1F29"
             }
           }
         }
@@ -7325,7 +7325,7 @@
           "$value": "#FFFFFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF14"
+              "dark": "#00000014"
             }
           }
         },
@@ -7334,7 +7334,7 @@
           "$value": "#FFFFFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF1F"
+              "dark": "#0000001F"
             }
           }
         },
@@ -7343,7 +7343,7 @@
           "$value": "#FFFFFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FFFFFF29"
+              "dark": "#00000029"
             }
           }
         }
@@ -7354,7 +7354,7 @@
           "$value": "#FEFBFF14",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF14"
+              "dark": "#3A3B3F14"
             }
           }
         },
@@ -7363,7 +7363,7 @@
           "$value": "#FEFBFF1F",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF1F"
+              "dark": "#3A3B3F1F"
             }
           }
         },
@@ -7372,7 +7372,7 @@
           "$value": "#FEFBFF29",
           "$extensions": {
             "modes": {
-              "dark": "#FEFBFF29"
+              "dark": "#3A3B3F29"
             }
           }
         }
@@ -7383,7 +7383,7 @@
           "$value": "#C6C6CB14",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB14"
+              "dark": "#10111514"
             }
           }
         },
@@ -7392,7 +7392,7 @@
           "$value": "#C6C6CB1F",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB1F"
+              "dark": "#1011151F"
             }
           }
         },
@@ -7401,7 +7401,7 @@
           "$value": "#C6C6CB29",
           "$extensions": {
             "modes": {
-              "dark": "#C6C6CB29"
+              "dark": "#10111529"
             }
           }
         }
@@ -14640,10 +14640,10 @@
   "Messages": {
     "highest": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.90}",
+      "$value": "{Colors.Ramps.pink.90}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.20}"
+          "dark": "{Colors.Ramps.pink.20}"
         }
       }
     },
@@ -14676,10 +14676,10 @@
     },
     "higher": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.80}",
+      "$value": "{Colors.Ramps.pink.80}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.30}"
+          "dark": "{Colors.Ramps.pink.30}"
         }
       }
     },
@@ -14712,10 +14712,10 @@
     },
     "high": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.70}",
+      "$value": "{Colors.Ramps.pink.70}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.40}"
+          "dark": "{Colors.Ramps.pink.40}"
         }
       }
     },
@@ -14748,10 +14748,10 @@
     },
     "primary": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.50}",
+      "$value": "{Colors.Ramps.pink.50}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.50}"
+          "dark": "{Colors.Ramps.pink.50}"
         }
       }
     },
@@ -14784,10 +14784,10 @@
     },
     "low": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.40}",
+      "$value": "{Colors.Ramps.pink.40}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.70}"
+          "dark": "{Colors.Ramps.pink.70}"
         }
       }
     },
@@ -14820,10 +14820,10 @@
     },
     "lower": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.30}",
+      "$value": "{Colors.Ramps.pink.30}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.80}"
+          "dark": "{Colors.Ramps.pink.80}"
         }
       }
     },
@@ -14856,10 +14856,10 @@
     },
     "lowest": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.20}",
+      "$value": "{Colors.Ramps.pink.20}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.90}"
+          "dark": "{Colors.Ramps.pink.90}"
         }
       }
     },
@@ -14892,37 +14892,37 @@
     },
     "surface": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.98}",
+      "$value": "{Colors.Ramps.pink.98}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.10}"
+          "dark": "{Colors.Ramps.pink.10}"
         }
       }
     },
     "on-surface": {
       "$type": "color",
-      "$value": "{Colors.Ramps.gray.10}",
+      "$value": "{Colors.Ramps.pink.10}",
       "$extensions": {
         "modes": {
-          "dark": "{Colors.Ramps.gray.98}"
+          "dark": "{Colors.Ramps.pink.98}"
         }
       }
     },
     "on-surface-inactive": {
       "$type": "color",
-      "$value": "#1F1F2199",
+      "$value": "#4B004199",
       "$extensions": {
         "modes": {
-          "dark": "#FBFBFB99"
+          "dark": "#FFF8FE99"
         }
       }
     },
     "on-surface-disabled": {
       "$type": "color",
-      "$value": "#1F1F2161",
+      "$value": "#4B004161",
       "$extensions": {
         "modes": {
-          "dark": "#FBFBFB61"
+          "dark": "#FFF8FE61"
         }
       }
     },

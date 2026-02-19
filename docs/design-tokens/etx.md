@@ -5,9 +5,7 @@ import etx        from '../../tokens/etx.json'
 
 const themes = ['Neutral', 'Events', 'Analytics', 'Locations', 'EcoTrafiX', 'Devices', 'Messages']
 
-// Analytics and Locations have identical light/dark values in the source data —
-// they were exported from Figma without dark mode differentiation.
-const NO_DARK_MODE = new Set(['Analytics', 'Locations'])
+const NO_DARK_MODE = new Set([])
 
 const selectedTheme = ref('Neutral')
 const mode          = ref('light')
