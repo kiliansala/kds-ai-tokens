@@ -90,6 +90,7 @@
 
 <script setup>
 import { ref, computed, onMounted, nextTick } from 'vue'
+import { withBase } from 'vitepress'
 
 const props = defineProps({
   data:           { type: Object,  required: true },
@@ -179,7 +180,7 @@ function resolveAliasHref(alias) {
   else                                     page = '/design-tokens/etx'
 
   const anchor = parts.map(s => s.toLowerCase().replace(/\s+/g, '-')).join('-')
-  return `${page}#${anchor}`
+  return withBase(`${page}#${anchor}`)
 }
 
 // ─────────────────────────────────────────
